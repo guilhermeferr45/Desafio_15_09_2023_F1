@@ -1,0 +1,30 @@
+h1{
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    background-color: red;
+    margin: -1%;
+}
+
+div{
+    background-color: black; 
+    color: white;
+    width: 10000;
+
+}
+
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h2{
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+}
